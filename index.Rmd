@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAMES HERE"
+title: "Racial Segregation in NYC"
+author: "Dhananjay Deshpande, Meenakshi Zutshi"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
